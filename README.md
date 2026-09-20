@@ -55,6 +55,7 @@ This repository also contains the supporting documents prepared for the FitFlow 
 Technology Comparison Matrix
 High-Level Architecture Diagram
 Architecture Decision Record (ADR)
+
 Module Details
 Module: IT3060 - Human Computer Interaction
 Year: 3rd Year, Semester 2 - 2026
